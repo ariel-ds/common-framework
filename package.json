@@ -1,0 +1,16 @@
+{
+	"name": "common-framework",
+	"version": "1.0.0",
+	"description": "Common framework for Vue.js applications",
+	"main": "dist/common-framework.js",
+	"types": "dist/common-framework.d.ts",
+	"author": "Ariel Di Segni <ariel_ds@malam.com>",
+	"license": "MIT",
+	"dependencies": {
+		"es6-promise": "^4.2.4",
+		"isomorphic-fetch": "^2.2.1"
+	},
+	"devDependencies": {
+		"@types/node": "^7.0.60"
+	}
+}
